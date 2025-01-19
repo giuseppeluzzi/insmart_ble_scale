@@ -1,0 +1,16 @@
+{
+  "domain": "insmart_ble_scale",
+  "name": "INSMART BLE Scale",
+  "codeowners": [
+    "@giusepeluzzi"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "bluetooth_adapters"
+  ],
+  "iot_class": "local_push",
+  "integration_type": "hub",
+  "version": "1.0.0",
+  "documentation": "https://github.com/giuseppeluzzi/insmart_ble_scale",
+  "issue_tracker": "https://github.com/giuseppeluzzi/insmart_ble_scale/issues"
+}
